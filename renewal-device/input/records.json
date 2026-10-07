@@ -1,0 +1,57 @@
+{
+  "owner": "김경민",
+  "period": "13주",
+  "ritual": {
+    "morning": 36,
+    "closing": 35
+  },
+  "strengths": [
+    {
+      "name": "자기조절력",
+      "alias": "지속력",
+      "count": 1
+    },
+    {
+      "name": "대인관계력",
+      "alias": "설명 능력",
+      "count": 1
+    },
+    {
+      "name": "자기동기력",
+      "alias": "탐구성",
+      "count": 1
+    }
+  ],
+  "projects": [
+    {
+      "id": "capstone",
+      "title": "Network Security Log Analysis",
+      "type": "security",
+      "completed": true
+    },
+    {
+      "id": "t10",
+      "title": "광고 클릭 의도 리서치",
+      "type": "paper",
+      "completed": true
+    },
+    {
+      "id": "t13",
+      "title": "13번 앱",
+      "type": "app",
+      "completed": false
+    }
+  ],
+  "events": [
+    {
+      "date": "2011-04",
+      "kind": "story",
+      "text": "해병대 입대"
+    },
+    {
+      "date": "2026-09",
+      "kind": "project",
+      "text": "SK ALEPH 네트워크 보안 프로젝트 진행"
+    }
+  ]
+}

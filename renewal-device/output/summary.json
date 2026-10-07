@@ -1,0 +1,38 @@
+{
+  "closing_records": 35,
+  "completed_projects": 2,
+  "dated_scenes": [
+    {
+      "date": "2011-04",
+      "kind": "story",
+      "text": "해병대 입대"
+    },
+    {
+      "date": "2026-09",
+      "kind": "project",
+      "text": "SK ALEPH 네트워크 보안 프로젝트 진행"
+    }
+  ],
+  "deterministic_hash": "63d4559dead2e794",
+  "morning_records": 36,
+  "owner": "김경민",
+  "period": "13주",
+  "reserved_projects": [
+    "13번 앱"
+  ],
+  "strength_count": 3,
+  "strengths": [
+    {
+      "alias": "지속력",
+      "name": "자기조절력"
+    },
+    {
+      "alias": "설명 능력",
+      "name": "대인관계력"
+    },
+    {
+      "alias": "탐구성",
+      "name": "자기동기력"
+    }
+  ]
+}
